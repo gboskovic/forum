@@ -31,7 +31,7 @@
     "angular2-cookie": "^1.2.6",
     "bootstrap": "^4.1.0",
     "core-js": "^2.5.4",
-    "marked": "^0.5.1",
+    "marked": "^0.7.0",
     "moment": "^2.22.2",
     "ngrx-store-freeze": "^0.2.4",
     "ngx-markdown-editor": "^1.1.7",
